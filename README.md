@@ -1,8 +1,8 @@
 ### Hi there I am backend developer and script/crawler/parser developer👋
 
-![mur4ik18 github stats](https://github-readme-stats.vercel.app/api?username=mur4ik18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+<img align="right" alt="GIF" src="https://github.com/mur4ik18/mur4ik18/blob/main/e426702edf874b181aced1e2fa5c6cde.gif?raw=true" width="300" height="192" />
 
-<img align="right" alt="GIF" src="https://github.com/mur4ik18/mur4ik18/blob/main/e426702edf874b181aced1e2fa5c6cde.gif?raw=true" width="250" height="160" />
+![mur4ik18 github stats](https://github-readme-stats.vercel.app/api?username=mur4ik18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
 ## Technology stack
 
