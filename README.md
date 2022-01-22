@@ -1,5 +1,4 @@
 ### Hi there I am backend developer and script/crawler/parser developer👋
-## 𝗦𝘁𝗮𝘁𝘀
 
 ![DJWOMS github stats](https://github-readme-stats.vercel.app/api?username=mur4ik18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 ![DJWOMS Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mur4ik18&layout=compact&count_private=true&theme=gruvbox)
