@@ -6,6 +6,7 @@
 
 ## Technology stack
 <img align="right" alt="GIF" src="https://github.com/mur4ik18/mur4ik18/blob/main/e426702edf874b181aced1e2fa5c6cde.gif?raw=true" width="500" height="320" />
+
 **Back-end**
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
