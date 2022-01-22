@@ -1,6 +1,10 @@
 ### Hi there I am backend developer and script/crawler/parser developer👋
+## 𝗦𝘁𝗮𝘁𝘀
 
-<img align="right" alt="GIF" src="https://github.com/mur4ik18/mur4ik18/blob/main/e426702edf874b181aced1e2fa5c6cde.gif?raw=true" width="500" height="320" />
+![DJWOMS github stats](https://github-readme-stats.vercel.app/api?username=mur4ik18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![DJWOMS Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mur4ik18&layout=compact&count_private=true&theme=gruvbox)
+
+<img align="left" alt="GIF" src="https://github.com/mur4ik18/mur4ik18/blob/main/e426702edf874b181aced1e2fa5c6cde.gif?raw=true" width="500" height="320" />
 ## Technology stack
 **Back-end**
 
@@ -37,11 +41,6 @@
 **Learning**
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-
-## 𝗦𝘁𝗮𝘁𝘀
-
-![DJWOMS github stats](https://github-readme-stats.vercel.app/api?username=mur4ik18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![DJWOMS Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mur4ik18&layout=compact&count_private=true&theme=gruvbox)
 
 <!--
 **mur4ik18/mur4ik18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
