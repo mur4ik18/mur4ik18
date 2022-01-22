@@ -1,6 +1,6 @@
 ### Hi there I am backend developer and script/crawler/parser developer👋
 
-![DJWOMS Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mur4ik18&layout=compact&count_private=true&theme=gruvbox)
+![mur4ik18 github stats](https://github-readme-stats.vercel.app/api?username=mur4ik18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
 ## Technology stack
 <img align="right" alt="GIF" src="https://github.com/mur4ik18/mur4ik18/blob/main/e426702edf874b181aced1e2fa5c6cde.gif?raw=true" width="500" height="320" />
@@ -40,7 +40,7 @@
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
 
-![DJWOMS github stats](https://github-readme-stats.vercel.app/api?username=mur4ik18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![mur4ik18 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mur4ik18&layout=compact&count_private=true&theme=gruvbox)
 
 <!--
 **mur4ik18/mur4ik18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
