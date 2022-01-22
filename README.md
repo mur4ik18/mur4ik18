@@ -4,7 +4,7 @@
 ![DJWOMS github stats](https://github-readme-stats.vercel.app/api?username=mur4ik18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 ![DJWOMS Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mur4ik18&layout=compact&count_private=true&theme=gruvbox)
 
-<img align="left" alt="GIF" src="https://github.com/mur4ik18/mur4ik18/blob/main/e426702edf874b181aced1e2fa5c6cde.gif?raw=true" width="500" height="320" />
+<img align="left" alt="GIF" src="https://github.com/mur4ik18/mur4ik18/blob/main/e426702edf874b181aced1e2fa5c6cde.gif?raw=true" width="500" height="620" />
 ## Technology stack
 **Back-end**
 
