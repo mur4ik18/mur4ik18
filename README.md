@@ -1,6 +1,6 @@
 ### Hi there I am backend developer and script/crawler/parser developer👋
 
-
+<img align="right" alt="GIF" src="https://github.com/mur4ik18/mur4ik18/e426702edf874b181aced1e2fa5c6cde.gif?raw=true" width="500" height="320" />
 ## Technology stack
 **Back-end**
 
