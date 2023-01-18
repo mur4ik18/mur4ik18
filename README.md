@@ -3,7 +3,8 @@
 <img align="right" alt="GIF" src="https://github.com/mur4ik18/mur4ik18/blob/main/e426702edf874b181aced1e2fa5c6cde.gif?raw=true" width="300" height="192" />
 
 <!-- ![mur4ik18 github stats](https://github-readme-stats.vercel.app/api?username=mur4ik18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true) -->
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=mur4ik18&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<!-- [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=mur4ik18&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mur4ik18&count_private=true)
 
 ## Technology stack
 
