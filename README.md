@@ -2,12 +2,15 @@
 
 <img align="right" alt="GIF" src="https://github.com/mur4ik18/mur4ik18/blob/main/e426702edf874b181aced1e2fa5c6cde.gif?raw=true" width="300" height="192" />
 
-![mur4ik18 github stats](https://github-readme-stats.vercel.app/api?username=mur4ik18&show_icons=true&theme=dracula&include_all_commits=false)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mur4ik18&theme=radical&border_radius=5.2&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mur4ik18&theme=default)
+
+<!-- ![mur4ik18 github stats](https://github-readme-stats.vercel.app/api?username=mur4ik18&show_icons=true&theme=dracula&include_all_commits=false) -->
 <!-- [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=mur4ik18&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mur4ik18&count_private=true) -->
 
 ## Technology stack
-
+<!-- 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
@@ -26,7 +29,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) -->
 
 
 ![mur4ik18 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mur4ik18&layout=compact&count_private=true&theme=dracula&hide_rank=25)
