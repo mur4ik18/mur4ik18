@@ -2,4 +2,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,c,python,django)](https://skillicons.dev)
 
-![mur4ik18 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mur4ik18&layout=compact&count_private=true&theme=dracula&hide_rank=25)
+![mur4ik18 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mur4ik18&layout=compact&count_private=true&theme=dracula)
