@@ -23,4 +23,4 @@ hobbies: ["Books", "Gaming", "Coding", "Future"]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mur4ik18&langs_count=8&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mur4ik18)](https://github.com/anuraghazra/github-readme-stats) -->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mur4ik18)](https://github.com/anuraghazra/github-readme-stats)
