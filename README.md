@@ -10,7 +10,6 @@ technical_background: ["back-end on python", "Writed bots for instagram "]
 currently_learning: ["C", "lisp with sicp", "CS"]
 hobbies: ["Books", "Gaming", "Coding", "Future"]
 ```
-
 ## Links
 - [Dev.to](https://dev.to/mur4ik18)
 
