@@ -5,7 +5,7 @@ name: Alex KOTOV
 located_in: Le Mans, France
 from: Soledar (Ukraine)
 job: Freelance
-fields_of_interests: ["back-end", "Operating Systems"]
+fields_of_interests: ["back-end", "Operating Systems", "Space", "Robots"]
 technical_background: ["back-end on python", "Writed bots for instagram "]
 currently_learning: ["C", "lisp with sicp", "CS"]
 hobbies: ["Books", "Gaming", "Coding", "Future"]
