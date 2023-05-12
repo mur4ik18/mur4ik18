@@ -6,9 +6,9 @@ located_in: Le Mans, France
 from: Soledar (Ukraine)
 job: Freelance
 fields_of_interests: ["back-end", "Operating Systems", "Space", "Robots"]
-technical_background: ["back-end on python", "Writed bots for instagram "]
-currently_learning: ["C", "lisp with sicp", "CS"]
-hobbies: ["Books", "Gaming", "Coding", "Future"]
+technical_background: ["back-end on python", "Bots dev."]
+currently_learning: ["Arch linux", "C", "CS"]
+hobbies: ["Arch linux","Books", "Gaming", "Coding", "Future"]
 ```
 ## Links
 - [Dev.to](https://dev.to/mur4ik18)
