@@ -20,5 +20,3 @@ hobbies: ["Arch linux","Books", "Gaming", "Coding", "Future"]
 
 <!-- 📊 &nbsp;**This week I spent my time on** -->
 ![github stats](https://github-readme-stats.vercel.app/api?username=mur4ik18&show_icons=true&theme=dracula&hide_border=true&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mur4ik18&langs_count=8&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
