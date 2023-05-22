@@ -1,5 +1,4 @@
 # About me
-[![wakatime](https://wakatime.com/badge/user/417ea0b0-6145-4829-967e-a0061869d5d9.svg)](https://wakatime.com/@417ea0b0-6145-4829-967e-a0061869d5d9)
 ```yaml
 name: Alex KOTOV
 located_in: Le Mans, France
