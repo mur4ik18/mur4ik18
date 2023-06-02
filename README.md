@@ -1,13 +1,13 @@
 # About me
 ```yaml
-name: Alex KOTOV
+name: Oleksandr(Alex) KOTOV
 located_in: Le Mans, France
 from: Soledar (Ukraine)
-job: Freelance
+job: Freelancer
 fields_of_interests: ["back-end", "Operating Systems", "Space", "Robots"]
 technical_background: ["back-end on python", "Bots dev."]
-currently_learning: ["Arch linux", "C", "CS"]
-hobbies: ["Arch linux","Books", "Gaming", "Coding", "Future"]
+currently_learning: ["Arch linux", "C"]
+hobbies: ["Books", "Gaming", "Coding"]
 ```
 ## Links
 - [Dev.to](https://dev.to/mur4ik18)
