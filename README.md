@@ -9,6 +9,7 @@ technical_background: ["back-end on python", "Bots dev."]
 currently_learning: ["Arch linux", "C"]
 hobbies: ["Books", "Gaming", "Coding"]
 ```
+
 ## Links
 - [Dev.to](https://dev.to/mur4ik18)
 
