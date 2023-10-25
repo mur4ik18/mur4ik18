@@ -6,8 +6,8 @@ from: Soledar (Ukraine)
 job: Freelancer
 fields_of_interests: ["back-end", "CC", "Space", "Robots"]
 technical_background: ["back-end on python", "Bots dev."]
-currently_learning: ["AVR", "Lisp"]
-hobbies: ["Books", "Gaming", "Coding"]
+currently_learning: ["Emulators", "Lisp", "ASM"]
+hobbies: ["Coding"]
 ```
 
 ## Links
