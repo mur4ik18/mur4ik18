@@ -2,12 +2,9 @@
 ```yaml
 name: Oleksandr(Alex) KOTOV
 located_in: Le Mans, France
-from: Soledar (Ukraine)
-job: Freelancer
-fields_of_interests: ["back-end", "CC", "Space", "Robots"]
-technical_background: ["back-end on python", "Bots dev."]
-currently_learning: ["Emulators"]
-hobbies: ["Coding"]
+fields_of_interests: ["ML", "Data", "Life"]
+technical_background: ["back-end on python", "Bots dev.", "ML", ""]
+hobbies: ["Coding", "gaming", "sport", "life"]
 ```
 
 ## Links
